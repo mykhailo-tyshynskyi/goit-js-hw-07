@@ -1,0 +1,14 @@
+{
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  
+  "compilerOptions": {
+    "target": "ES6"
+  },
+  "exclude": ["node_modules"]
+
+}
